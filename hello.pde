@@ -8,4 +8,8 @@ void draw()
 {
   text("HELLO GIT",225,250);
   
+  ellipse(150,150,50,50);
+  
+
+  
 }
